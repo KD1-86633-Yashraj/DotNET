@@ -1,0 +1,7 @@
+Y:\CDACSunbeam\My Git Data\DotNET\Assignments\Assignment01_Question02\bin\Debug\Assignment01_Question02.exe.config
+Y:\CDACSunbeam\My Git Data\DotNET\Assignments\Assignment01_Question02\bin\Debug\Assignment01_Question02.exe
+Y:\CDACSunbeam\My Git Data\DotNET\Assignments\Assignment01_Question02\bin\Debug\Assignment01_Question02.pdb
+Y:\CDACSunbeam\My Git Data\DotNET\Assignments\Assignment01_Question02\obj\Debug\Assignment01_Question02.csproj.AssemblyReference.cache
+Y:\CDACSunbeam\My Git Data\DotNET\Assignments\Assignment01_Question02\obj\Debug\Assignment01_Question02.csproj.CoreCompileInputs.cache
+Y:\CDACSunbeam\My Git Data\DotNET\Assignments\Assignment01_Question02\obj\Debug\Assignment01_Question02.exe
+Y:\CDACSunbeam\My Git Data\DotNET\Assignments\Assignment01_Question02\obj\Debug\Assignment01_Question02.pdb
