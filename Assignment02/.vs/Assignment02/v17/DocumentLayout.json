@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Y:\\CDACSunbeam\\My Git Data\\DotNET\\Assignment02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8965CCB3-C189-4F1B-8B23-787242351D5E}|Assignment02_Question02\\Assignment02_Question02.csproj|y:\\cdacsunbeam\\my git data\\dotnet\\assignment02\\assignment02_question02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8965CCB3-C189-4F1B-8B23-787242351D5E}|Assignment02_Question02\\Assignment02_Question02.csproj|solutionrelative:assignment02_question02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8965CCB3-C189-4F1B-8B23-787242351D5E}|Assignment02_Question02\\Assignment02_Question02.csproj|y:\\cdacsunbeam\\my git data\\dotnet\\assignment02\\assignment02_question02\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8965CCB3-C189-4F1B-8B23-787242351D5E}|Assignment02_Question02\\Assignment02_Question02.csproj|solutionrelative:assignment02_question02\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "Y:\\CDACSunbeam\\My Git Data\\DotNET\\Assignment02\\Assignment02_Question02\\Student.cs",
+              "RelativeDocumentMoniker": "Assignment02_Question02\\Student.cs",
+              "ToolTip": "Y:\\CDACSunbeam\\My Git Data\\DotNET\\Assignment02\\Assignment02_Question02\\Student.cs",
+              "RelativeToolTip": "Assignment02_Question02\\Student.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAADgvzMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:56:40.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Y:\\CDACSunbeam\\My Git Data\\DotNET\\Assignment02\\Assignment02_Question02\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment02_Question02\\Program.cs",
+              "ToolTip": "Y:\\CDACSunbeam\\My Git Data\\DotNET\\Assignment02\\Assignment02_Question02\\Program.cs",
+              "RelativeToolTip": "Assignment02_Question02\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwEYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:52:22.684Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
