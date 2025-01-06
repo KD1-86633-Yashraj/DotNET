@@ -1,0 +1,10 @@
+D:\CDAC\Practice\MS.NET\MyWork\Assignment03\HRMS\obj\Debug\HRMS.csproj.AssemblyReference.cache
+D:\CDAC\Practice\MS.NET\MyWork\Assignment03\HRMS\obj\Debug\HRMS.csproj.CoreCompileInputs.cache
+D:\CDAC\Practice\MS.NET\MyWork\Assignment03\HRMS\bin\Debug\HRMS.exe.config
+D:\CDAC\Practice\MS.NET\MyWork\Assignment03\HRMS\bin\Debug\HRMS.exe
+D:\CDAC\Practice\MS.NET\MyWork\Assignment03\HRMS\bin\Debug\HRMS.pdb
+D:\CDAC\Practice\MS.NET\MyWork\Assignment03\HRMS\bin\Debug\EmployeeLib.dll
+D:\CDAC\Practice\MS.NET\MyWork\Assignment03\HRMS\bin\Debug\EmployeeLib.pdb
+D:\CDAC\Practice\MS.NET\MyWork\Assignment03\HRMS\obj\Debug\HRMS.csproj.Up2Date
+D:\CDAC\Practice\MS.NET\MyWork\Assignment03\HRMS\obj\Debug\HRMS.exe
+D:\CDAC\Practice\MS.NET\MyWork\Assignment03\HRMS\obj\Debug\HRMS.pdb
